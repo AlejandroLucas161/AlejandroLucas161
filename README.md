@@ -28,4 +28,4 @@ Además, cuento con un nivel de inglés conversacional y estoy entusiasmado y ab
 [LinkedIn](linkedin.com/in/alejandrolucas161)
 
 ## CV
-[Alejandro Lucas]([https://drive.google.com/file/d/1f7xFB1OAuXTNw_KOjvTRRCX91OkfZ_tR/view?usp=sharing](https://drive.google.com/file/d/1icm4Bqfh8CJF_FHCmSTnJm7lZbvxG0Mj/view?usp=sharing)https://drive.google.com/file/d/1icm4Bqfh8CJF_FHCmSTnJm7lZbvxG0Mj/view?usp=sharing)
+[Alejandro Lucas](https://drive.google.com/file/d/1icm4Bqfh8CJF_FHCmSTnJm7lZbvxG0Mj/view?usp=sharing)
