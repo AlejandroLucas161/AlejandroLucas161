@@ -15,14 +15,41 @@ Mi enfoque va más allá del código, ya que también destaco por mis habilidade
 Además, cuento con un nivel de inglés conversacional y estoy entusiasmado y abierto a oportunidades de trabajo en el extranjero. Si estás buscando un profesional apasionado y orientado a resultados para tu equipo, estaré encantado de conectar contigo.
  
 ## Conocimientos IT
-  - JavaScript (incluyendo conceptos avanzados como OOP, Fetch, Async, y más).
-  - React (hooks, react-router y más).
-  - HTML y CSS avanzado.
-  - Preprocesador de CSS, SaSS.
-  - Arquitectura BEM de CSS.
-  - NPM y Yarn.
-  - Git y GitHub.
+- **JavaScript:**
+  - Conceptos avanzados como OOP, Fetch, Async, y más.
+
+- **React:**
+  - Hooks.
+  - React Router.
+
+- **HTML y CSS:**
+  - HTML5.
+  - CSS avanzado.
+
+- **Preprocesador de CSS:**
+  - SaSS.
+  - Styled Components.
+
+- **Arquitectura de CSS:**
+  - BEM (Block Element Modifier).
+
+- **Gestores de Paquetes:**
+  - NPM.
+  - Yarn.
+
+- **Control de Versiones:**
+  - Git.
+  - GitHub.
+  - GitLab.
+  - Bitbucket.
+
+- **Frameworks y Bibliotecas Adicionales:**
   - Bootstrap.
+  - Material UI.
+  - React Query.
+
+- **Herramientas de Desarrollo:**
+  - Storybook.
 
 ## Redes y Contacto
 [LinkedIn](linkedin.com/in/alejandrolucas161)
